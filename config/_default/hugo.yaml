@@ -4,6 +4,10 @@ copyright: "© 2025 [Fachriza Ahmad Setiyono](https://github.com/L4mbads)"
 theme: ["PaperMod"]
 mainsections: ["posts"]
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 pagination:
   pagerSize: 5
 
